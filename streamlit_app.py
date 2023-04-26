@@ -62,6 +62,6 @@ def insert_row_snowflake(new_fruit):
     with my_cnx_.cursor() as my_cur:
                                      
 
-streamlit.write('Thanks for adding ', add_my_fruit)
+#streamlit.write('Thanks for adding ', add_my_fruit)
 
 
